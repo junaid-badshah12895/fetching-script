@@ -1,0 +1,6 @@
+boto3
+slack_sdk
+requests
+certifi
+aiohttp
+python-dotenv
